@@ -1,10 +1,10 @@
-urls-grab
-=============
+geometrydash-grab
+=================
 
-More information about the archiving project can be found on the ArchiveTeam wiki: [URLs](http://archiveteam.org/index.php?title=URLs)
+More information about the archiving project can be found on the ArchiveTeam wiki: [Geometry Dash](http://archiveteam.org/index.php?title=Geometry_Dash)
 
 Setup instructions
-=========================
+==================
 
 Be sure to replace `YOURNICKHERE` with the nickname that you want to be shown as, on the tracker. You don't need to register it, just pick a nickname you like.
 
