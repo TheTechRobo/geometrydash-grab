@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 7ce8c8913824042b88cc068ce97d28d9f16bfba2 TheTechRobo <52163910+TheTechRobo@users.noreply.github.com> 1650848762 -0400	clone: from https://github.com/ArchiveTeam/urls-grab.git
+7ce8c8913824042b88cc068ce97d28d9f16bfba2 1beb72ac00dd6e1839af97b96061ca54c2ca534c TheTechRobo <52163910+TheTechRobo@users.noreply.github.com> 1651445511 -0400	commit: WIP
+1beb72ac00dd6e1839af97b96061ca54c2ca534c 84534375abfa458a08db37e186dad070732a72c2 TheTechRobo <52163910+TheTechRobo@users.noreply.github.com> 1652491895 -0400	commit: WIP
+84534375abfa458a08db37e186dad070732a72c2 6d1bcba7ec316af85b71b4240856adf0f79f0fa6 TheTechRobo <52163910+TheTechRobo@users.noreply.github.com> 1654267819 -0400	commit: WIP
+6d1bcba7ec316af85b71b4240856adf0f79f0fa6 ec8d8fbf009c39ed59aaaf5e7a071bbb8cae80d7 TheTechRobo <52163910+TheTechRobo@users.noreply.github.com> 1656458364 -0400	commit: Overhaul comment reader
+ec8d8fbf009c39ed59aaaf5e7a071bbb8cae80d7 6f234060e919523c3088cc4ac4d69dbbdefde8ef TheTechRobo <52163910+TheTechRobo@users.noreply.github.com> 1663535663 -0400	commit: Add support for uploading to rsync targets

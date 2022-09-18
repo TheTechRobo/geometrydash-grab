@@ -1,0 +1,12 @@
+Add support for uploading to rsync targets
+
+Also some minor changes
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   Makefile
+#	modified:   grab.lua
+#	modified:   pipeline.py
+#
